@@ -1,6 +1,12 @@
 # compornent（共通部品）
 
 ## イメージ画像
+- chrome
+- 上が`chrome`、下が`safari`
+- 背景黒色部分のfontが`font-family: "Noto Sans JP";`
+<img width="1287" alt="image" src="https://user-images.githubusercontent.com/99580997/163715368-e5da3543-9714-4d3d-b5ec-f69f44688afd.png">
+
+
 
 ## 概要
 
