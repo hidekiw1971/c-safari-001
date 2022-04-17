@@ -1,0 +1,29 @@
+@use "global" as *;
+.font-ck1 {
+  // size
+  display: inline-block;
+  max-width: rem(375);
+  width: 100%;
+  // font
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: rem(16);
+  font-weight: $normal;
+  // font-style: normal;
+  // size
+  display: inline-block;
+  max-width: rem(375);
+  width: 100%;
+  // decoration
+  color: #fff;
+  background-color: #333;
+  @include mq(md) {
+    // size
+    display: block;
+    max-width: rem(1280);
+    width: 100%;
+    // ajustment
+    margin: 0 auto;
+  }
+  @include mq(xl) {
+  }
+}
